@@ -1,0 +1,8 @@
+,Label,Label_1_Virus_category,Label_2_Virus_category,Image_Count,Train_Count,Test_Count
+0,Normal,,,1576,1342,234
+1,Pnemonia,Stress-Smoking,ARDS,2,2,0
+2,Pnemonia,Virus,,1493,1345,148
+3,Pnemonia,Virus,COVID-19,58,58,0
+4,Pnemonia,Virus,SARS,4,4,0
+5,Pnemonia,bacteria,,2772,2530,242
+6,Pnemonia,bacteria,Streptococcus,5,5,0
